@@ -7,7 +7,7 @@
 
 ## Usage:
 
-With `gcc`,`clang` or any C programming IDE or compiler running on a local machine, the user should compile the program and enter the command `./reverse input.wav output.wav` on a terminal window to execute the program, making sure to enter the command after moving into the program directory via `cd reverse` and making sure to rename the desired WAV file to reverse exactly as `input.wav`, and it should also be stored inside the `reverse` directory.
+With `gcc`,`clang` or any C programming IDE or compiler running on a local machine, the user should compile the program and enter the command `./reverse input.wav output.wav` on a terminal window to execute the program, making sure to enter the command after moving into the program directory via `cd reverse` and making sure to rename the desired WAV file to reverse exactly as `input.wav`, which should also be stored inside the `reverse` directory.
 
 The program will handle any errors that may arise like failling to properly execute or failling to read any audio data.
 
